@@ -1,0 +1,48 @@
+.titulo-principal {
+    padding-left: 20px;
+}
+
+#banner {
+    width: 100%;
+}
+
+#sobre_barbearia_alura {
+    background-color: rgb(143, 127, 127);
+    padding: 30px;
+}
+
+.titulo_centralizado {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    size: 20px;
+}
+
+em strong {
+    color: red;
+}
+
+.itens {
+    font-style: italic;
+}
+
+#beneficios_barbearia_alura {
+    background-color: white;
+}
+
+#lista_beneficios {
+    display: inline-block;
+    width: 20%;
+    margin-right: 15%;
+    padding: 20px;
+}
+
+#imagem_beneficios {
+    width: 50%;
+    vertical-align: top;
+}
