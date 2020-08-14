@@ -1,3 +1,7 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
 #cabecalho {
     background-color: grey;
     padding: 20px 0;
@@ -156,4 +160,62 @@ table td,
 th {
     border: 1px solid black;
     padding: 8px 15px;
+}
+
+.banner {
+    width: 100%;
+}
+
+.titulo_principal {
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
+}
+
+.sobre_barbearia_alura {
+    margin: 0 0 1em;
+}
+
+.sobre_barbearia_alura strong {
+    font-weight: bold;
+}
+
+.sobre_barbearia_alura em {
+    font-style: italic;
+}
+
+.imagem_beneficios {
+    width: 60%;
+}
+
+.utensilios {
+    width: 150px;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+.mapa {
+    padding: 3em 0;
+}
+
+.mapa p {
+    margin: 0 0 2em;
+    text-align: center;
+}
+
+.video {
+    width: 560px;
+    margin: 2em auto;
+}
+
+.conteudo_beneficios {
+    width: 640px;
+    margin: 0 auto;
+}
+
+.lista-beneficios {
+    width: 60%;
+    display: inline-block;
+    vertical-align: top;
 }
